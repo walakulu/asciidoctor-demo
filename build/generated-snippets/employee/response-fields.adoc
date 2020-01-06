@@ -1,0 +1,16 @@
+|===
+|Path|Type|Description
+
+|`+name+`
+|`+String+`
+|The employee name
+
+|`+id+`
+|`+Number+`
+|The employee Id
+
+|`+title+`
+|`+String+`
+|The employee title
+
+|===

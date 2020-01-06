@@ -1,0 +1,13 @@
+= Employee-Service
+
+== Employees
+
+=== GetEmployeeById:
+
+Find the employee details by giving employee id.
+
+include::{snippets}/employee/http-request.adoc[]
+
+Response: `200 Ok`
+
+include::{snippets}/employee/response-body.adoc[]
